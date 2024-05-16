@@ -16,28 +16,7 @@ https://mooc.study.163.com/university/deeplearning_ai#/c
 
 “我们将帮助你掌握深度学习，理解如何应用深度学习，在人工智能业界开启你的职业生涯。”吴恩达在课程页面中提到。
 
-本人黄海广博士，以前写过吴恩达老师的机器学习个人笔记。目前我正在组织团队整理中文笔记，由热心的朋友无偿帮忙制作整理，并持续更新。我们的团队的工作致力于**AI**在国内的推广，不会损害**Coursera**以及吴恩达老师的商业利益。
 
-本人水平有限，如有公式、算法错误，请及时指出，发邮件给我。
-
-**笔记是根据视频和字幕写的，没有技术含量，只需要专注和严谨。**
-
-黄海广
-
-[我的知乎](https://www.zhihu.com/people/fengdu78/activities)
-
-机器学习qq群：955171419（我们有13个群，加过一个就不需要加了）
-
-微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
-
-
-[我的知乎](https://www.zhihu.com/people/fengdu78/)
-
-**主要编写人员**：黄海广、林兴木（第四所有底稿，第五课第一二周，第三周前三节）、祝彦森:（第三课所有底稿）、贺志尧（第五课第三周底稿）、张笑钦、覃立波、王翔、胡瀚文、 余笑、 郑浩、李怀松、 朱越鹏、陈伟贺、 曹越、 路皓翔、邱牧宸、 唐天泽、 张浩、 陈志豪、 游忍、 泽霖、沈伟臣、 贾红顺、 时超、 陈哲、赵一帆、 胡潇杨、段希、于冲、张鑫倩
-
-**参与编辑人员**：黄海广、陈康凯、石晴路、钟博彦、向伟、严凤龙、刘成 、贺志尧、段希、陈瑶、林家泳、王翔、 谢士晨、蒋鹏
-
-2018-04-14
 
 本课程视频教程地址（B站）：https://www.bilibili.com/video/BV16r4y1Y7jv
 
@@ -45,13 +24,8 @@ https://mooc.study.163.com/university/deeplearning_ai#/c
 
 吴恩达老师的机器学习课程笔记和视频：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
-**此文档免费，请不要用于商业用途，可以自由传播。**
 
-**赠人玫瑰，手有余香！**
-
-haiguang2000@qq.com
-
-**转载请注明出处**：https://github.com/fengdu78/deeplearning_ai_books
+**转载**：https://github.com/fengdu78/deeplearning_ai_books
 
 
 
